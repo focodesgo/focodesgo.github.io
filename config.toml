@@ -1,0 +1,4 @@
+baseURL = 'https://focodesgo.github.io'
+languageCode = 'en-us'
+title = 'FoCodesGo'
+theme = "beautifulhugo"
