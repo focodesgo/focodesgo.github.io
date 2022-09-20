@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FoCodesGo</title>
+    <link>https://focodesgo.github.io/</link>
+    <description>Recent content on FoCodesGo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Sep 2022 09:47:09 -0500</lastBuildDate><atom:link href="https://focodesgo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://focodesgo.github.io/posts/hello-world/</link>
+      <pubDate>Sun, 18 Sep 2022 09:47:09 -0500</pubDate>
+      
+      <guid>https://focodesgo.github.io/posts/hello-world/</guid>
+      <description>Hello and welcome! My name is Forrest and I love to code with Go(lang). I am working on some coding tutorials and will be sharing them here. You can also find me on Twitter @focodesgo and Github with the same name.</description>
+    </item>
+    
+  </channel>
+</rss>
